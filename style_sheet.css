@@ -30,7 +30,7 @@ ol > a:hover{
     background-color: #FFCCCC;
     width: 200px;
     height: 200px;
-    transform: rotate(180deg);
+    transform: rotate(180deg) ;
 }
 .footer h2{
     text-align: center;
@@ -43,4 +43,7 @@ ol > a:hover{
 #Form_sbt{
     text-align:left;
     margin-left: 80%;
+}
+.MainCont{
+    border:black;
 }
